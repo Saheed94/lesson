@@ -2,16 +2,4 @@ this is a code to pratice git and
 i will be using this to test different git programme
 i believe this is well understood
 hopefully i am understanding the process
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-this is an update work 
-=======
-this is my new code let see how to merge it with the dev1 code
->>>>>>> Stashed changes
-=======
-this is my new code let see how to merge it with the dev1 code
->>>>>>> Stashed changes
-=======
-this is my new code let see how to merge it with the dev1 code
->>>>>>> Stashed changes
+thankfully i am able to edit this code so lets see what happenss
